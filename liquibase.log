@@ -1,0 +1,39 @@
+mar. 22, 2025 10:10:30 AM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202503191511.sql
+mar. 22, 2025 10:10:30 AM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202503200939.sql
+mar. 22, 2025 10:10:30 AM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202503201008.sql
+mar. 22, 2025 10:10:30 AM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202503201016.sql
+mar. 22, 2025 10:10:31 AM liquibase.changelog
+INFO: Reading from board_decolatech2025.databasechangelog
+Database is up to date, no changesets to execute
+mar. 22, 2025 10:10:31 AM liquibase.changelog
+INFO: Reading from board_decolatech2025.databasechangelog
+
+UPDATE SUMMARY
+Run:                          0
+Previously run:               4
+Filtered out:                 0
+-------------------------------
+Total change sets:            4
+
+mar. 22, 2025 10:10:31 AM liquibase.util
+INFO: UPDATE SUMMARY
+mar. 22, 2025 10:10:31 AM liquibase.util
+INFO: Run:                          0
+mar. 22, 2025 10:10:31 AM liquibase.util
+INFO: Previously run:               4
+mar. 22, 2025 10:10:31 AM liquibase.util
+INFO: Filtered out:                 0
+mar. 22, 2025 10:10:31 AM liquibase.util
+INFO: -------------------------------
+mar. 22, 2025 10:10:31 AM liquibase.util
+INFO: Total change sets:            4
+mar. 22, 2025 10:10:31 AM liquibase.util
+INFO: Update summary generated
+mar. 22, 2025 10:10:31 AM liquibase.lockservice
+INFO: Successfully released change log lock
+mar. 22, 2025 10:10:31 AM liquibase.command
+INFO: Command execution complete
